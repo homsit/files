@@ -29,11 +29,11 @@ Long Beach	75
 Mechanicville	80
 Middletown	71
 Mount Vernon	60
-New Rochelle	53
-New York	55
+NewRochelle	53
+NewYork	55
 Newburgh	69
 Niagara Falls	55
-North Tonawanda	63
+NorthTonawanda	63
 Norwich	79
 Ogdensburg	73
 Olean	56
