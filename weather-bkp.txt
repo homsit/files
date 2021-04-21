@@ -23,17 +23,17 @@ Jamestown	67
 Johnstown	52
 Kingston	73
 Lackawanna	62
-Little Falls	61
+LittleFalls	61
 Lockport	58
-Long Beach	75
+LongBeach	75
 Mechanicville	80
 Middletown	71
-Mount Vernon	60
-New Rochelle	53
-New York	55
+MountVernon	60
+NewRochelle	53
+NewYork	55
 Newburgh	69
-Niagara Falls	55
-North Tonawanda	63
+NiagaraFalls	55
+NorthTonawanda	63
 Norwich	79
 Ogdensburg	73
 Olean	56
@@ -42,14 +42,14 @@ Oneonta	50
 Oswego	70
 Peekskill	52
 Plattsburgh	69
-Port Jervis	63
+PortJervis	63
 Poughkeepsie	80
 Rensselaer	62
 Rochester	72
 Rome	57
 Rye	61
 Salamanca	64
-Saratoga Springs	59
+SaratogaSprings	59
 Schenectady	71
 Sherrill	57
 Syracuse	55
@@ -58,5 +58,5 @@ Troy	50
 Utica	53
 Watertown	79
 Watervliet	59
-White Plains	60
+WhitePlains	60
 Yonkers	80
