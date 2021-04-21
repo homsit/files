@@ -1,16 +1,62 @@
-NYC 79
-JC 80
-Newark 75
-Brooklyn 70
-Albany 59
-Hoboken 62
-Paterson 64
-Seattle 48
-Vancouver 47
-Olympia 41
-Fairlawn 63
-Trenton 64
-Hackensack 63
-Buffalo 32
-Ithaca 35
-Rochester 32
+Albany	67
+Amsterdam	79
+Auburn	55
+Batavia	79
+Beacon	79
+Binghamton	64
+Buffalo	61
+Canandaigua	71
+Cohoes	69
+Corning	67
+Cortland	80
+Dunkirk	59
+Elmira	68
+Fulton	53
+Geneva	65
+Glen Cove	70
+Glens Falls	60
+Gloversville	68
+Hornell	63
+Hudson	55
+Ithaca	80
+Jamestown	67
+Johnstown	52
+Kingston	73
+Lackawanna	62
+Little Falls	61
+Lockport	58
+Long Beach	75
+Mechanicville	80
+Middletown	71
+Mount Vernon	60
+New Rochelle	53
+New York	55
+Newburgh	69
+Niagara Falls	55
+North Tonawanda	63
+Norwich	79
+Ogdensburg	73
+Olean	56
+Oneida	67
+Oneonta	50
+Oswego	70
+Peekskill	52
+Plattsburgh	69
+Port Jervis	63
+Poughkeepsie	80
+Rensselaer	62
+Rochester	72
+Rome	57
+Rye	61
+Salamanca	64
+Saratoga Springs	59
+Schenectady	71
+Sherrill	57
+Syracuse	55
+Tonawanda	62
+Troy	50
+Utica	53
+Watertown	79
+Watervliet	59
+White Plains	60
+Yonkers	80
