@@ -1,3 +1,16 @@
 NYC 79
 JC 80
 Newark 75
+Brooklyn 70
+Albany 59
+Hoboken 62
+Paterson 64
+Seattle 48
+Vancouver 47
+Olympia 41
+Fairlawn 63
+Trenton 64
+Hackensack 63
+Buffalo 32
+Ithaca 35
+Rochester 32
