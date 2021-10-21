@@ -11,7 +11,7 @@ Aidan Snider french:74,geography:84,spanish:81,math:91,chemistry:76
 Lennox Stewart chemistry:99,spanish:84,physics:87,art:94,french:73
 Matthew Butt art:88,math:68,chemistry:93,french:63,geography:82
 Donna Tillman french:67,math:77,chemistry:67,spanish:79,geography:97
-Israel Ray spanish:86,math:68,chemistry:56,french:68,geography:88
+Alena Alcock spanish:86,math:68,chemistry:56,french:68,geography:88
 Saira Dyer chemistry:90,spanish:60,physics:88,art:84,french:72
 Mike Derrick science:66,spanish:44,french:54,geography:91,math:76
 Bertram Lowe spanish:79,french:69,geography:84,math:70,chemistry:66
